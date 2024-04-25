@@ -42,8 +42,16 @@ pip install -r requirements.txt
 
 ```bash/cmd
 # Finally run the following command
+python main.py
+python template.py
+```
+
+```bash/cmd
+# Finally run the following command
 python app.py
 ```
+
+
 
 Now,
 ```bash/cmd
